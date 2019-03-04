@@ -1,4 +1,4 @@
-# GSTCrowfunding
+# GSTCrowdfunding
 
 Spanish: Plataforma de Crowdfunding para promover el emprendimiento
 
